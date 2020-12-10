@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d645644b-e15e-410a-aa2c-9c72f753379a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/controller/AppointmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/controller/NoticeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/entity/AppointmentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/entity/ConfigEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/entity/NoticeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/AppointmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/AppointmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/ConfigMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/ConfigMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/NoticeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/NoticeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/service/AppointmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/service/ConfigService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/service/NoticeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegene/Desktopcodelabsysbackendsrcmainjavacomh2busbackend/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jymt/demo/src/main/java/com/example/demo/config/AuditAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/BackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/config/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/config/MAuthenticationFailureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/config/MAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/config/MybatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/AppointmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/IndexPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/NoticeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/entity/AppointmentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/entity/ConfigEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/entity/NoticeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/entity/ViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/mapper/AppointmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/mapper/BaseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/mapper/ConfigMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/mapper/NoticeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/service/AppointmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/service/ConfigService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/service/NoticeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/service/SecurityUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/service/VerifyCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/utils/ForView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/utils/IStringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/utils/JsonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/java/com/h2bus/backend/utils/PageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/resources/mapper/AppointmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/resources/mapper/ConfigMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/resources/mapper/NoticeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/test/java/com/h2bus/backend/BackendApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../labsys/backend/src/test/java/com/h2bus/backend/FileMgrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-web/src/components/home/MdyInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front-web/src/components/home/MdyPwd.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CarBCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CarBCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/CarData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/CarData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/ConfigData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/ConfigData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codegene/src/main/resources/db-script" beforeDir="false" afterPath="$PROJECT_DIR$/../../codegene/src/main/resources/db-script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codegene/src/main/resources/project.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../codegene/src/main/resources/project.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codegene/src/main/resources/templates/backend/mybatisplus/controller.vm" beforeDir="false" afterPath="$PROJECT_DIR$/../../codegene/src/main/resources/templates/backend/mybatisplus/controller.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jymt/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../jymt/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Config.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Config.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/repo/order-repo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/repo/order-repo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/repo/user-repo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/repo/user-repo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/routes/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/routes/order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/GoodsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/GoodsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/GoodsList1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/GoodsList1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/Merchant.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/Merchant.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/Search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/Search.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/SignUp.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/SignUp.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/components/signUp/InputInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/components/signUp/InputInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-web/static/img/shopnewlogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../front-web/static/img/shopnewlogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workmgr/backend/src/main/java/com/h2bus/backend/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workmgr/backend/src/main/java/com/h2bus/backend/service/TaskService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1aeSXvKJ3yM6kRaTFtSy53K1x9A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d645644b-e15e-410a-aa2c-9c72f753379a" name="Default Changelist" comment="" />
+      <created>1587094609364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587094609364</updated>
+      <workItem from="1587094611592" duration="75000" />
+      <workItem from="1587103353733" duration="1925000" />
+      <workItem from="1587130816465" duration="2988000" />
+      <workItem from="1587171526522" duration="1849000" />
+      <workItem from="1587221098160" duration="268000" />
+      <workItem from="1587348428144" duration="577000" />
+      <workItem from="1587349310687" duration="707000" />
+      <workItem from="1587350882317" duration="6000" />
+      <workItem from="1587703662329" duration="15357000" />
+      <workItem from="1587875143567" duration="2065000" />
+      <workItem from="1587965728165" duration="279000" />
+      <workItem from="1588077756699" duration="35000" />
+      <workItem from="1588159178951" duration="1421000" />
+      <workItem from="1588171596076" duration="359000" />
+      <workItem from="1588205771264" duration="729000" />
+      <workItem from="1588208185500" duration="16000" />
+      <workItem from="1588297290882" duration="1099000" />
+      <workItem from="1588330651501" duration="391000" />
+      <workItem from="1588917720650" duration="6105000" />
+      <workItem from="1588943439360" duration="150000" />
+      <workItem from="1589199899696" duration="1625000" />
+      <workItem from="1589272044359" duration="6058000" />
+      <workItem from="1589333504946" duration="3340000" />
+      <workItem from="1589505085156" duration="1448000" />
+      <workItem from="1589509669535" duration="467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="753" y="310" key="FileChooserDialogImpl" timestamp="1589505088236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589505088236" />
+    <state x="959" y="335" width="786" height="600" key="find.popup" timestamp="1589336175627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="959" y="335" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589336175627" />
+    <state x="821" y="293" width="672" height="678" key="search.everywhere.popup" timestamp="1587735622355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="293" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587735622355" />
+  </component>
+</project>

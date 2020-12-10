@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f99f9842-50db-4cb7-bf9f-913683ee653e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/img/狗粮.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/猫粮.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CarACamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CarACamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CarBCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CarBCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CompareForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CompareForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CompareForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/CompareForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ConfigForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/Constant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/Constant.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ImageViewer.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ImageViewer.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ImageViewer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/ImageViewer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/LocalStorage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Comp/LocalStorage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/ConfigData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/ConfigData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/LoginUser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Entity/LoginUser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/ImgForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/ImgForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/ImgForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/ImgForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/ImgForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/ImgForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/LoginForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Main.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.v12.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../cdsm/Undercarriage1/Undercarriage.v12.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/goodsDetail/ShowGoods.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goodsDetail/ShowGoods.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/goodsDetail/ShowGoodsDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goodsDetail/ShowGoodsDetail.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1aeSYh4CZeJzu1L5pdZC2EuHMqO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\code\petshop\front-web\src\components" />
+      <recent name="E:\Desktop\code\petshop\front-web\src\components\nav" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\code\petshop\front-web\static\img" />
+      <recent name="E:\Desktop\code\petshop\front-web\node_modules\element-ui\lib\theme-chalk" />
+      <recent name="E:\Desktop\code\petshop\front-web\src" />
+      <recent name="E:\Desktop\code\petshop\front-web" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f99f9842-50db-4cb7-bf9f-913683ee653e" name="Default Changelist" comment="" />
+      <created>1587094615321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587094615321</updated>
+      <workItem from="1587094616586" duration="72000" />
+      <workItem from="1587103361189" duration="886000" />
+      <workItem from="1587130821272" duration="2099000" />
+      <workItem from="1587171532583" duration="3589000" />
+      <workItem from="1587348437364" duration="572000" />
+      <workItem from="1587349320856" duration="1041000" />
+      <workItem from="1587703671484" duration="1821000" />
+      <workItem from="1587866570325" duration="1201000" />
+      <workItem from="1587874545859" duration="41158000" />
+      <workItem from="1588159188983" duration="7585000" />
+      <workItem from="1588205778156" duration="1934000" />
+      <workItem from="1588297296494" duration="9328000" />
+      <workItem from="1588917726414" duration="9984000" />
+      <workItem from="1589199906966" duration="1181000" />
+      <workItem from="1589272050657" duration="8617000" />
+      <workItem from="1589334001551" duration="4725000" />
+      <workItem from="1589354069755" duration="423000" />
+      <workItem from="1589505092397" duration="2358000" />
+      <workItem from="1590041391066" duration="2858000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1587956556990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587956556990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1587956554615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587956554615" />
+    <state x="741" y="212" key="FileChooserDialogImpl" timestamp="1589509631772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="212" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589509631772" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587956566551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587956566551" />
+    <state x="388" y="154" width="1363" height="772" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587906498275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="388" y="154" width="1363" height="772" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587906498275" />
+    <state x="526" y="340" width="1394" height="700" key="find.popup" timestamp="1589509144463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="340" width="1394" height="700" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589509144463" />
+    <state x="667" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1589354457669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589354457669" />
+  </component>
+</project>
